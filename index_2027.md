@@ -3,7 +3,7 @@ layout: resume
 title: Reed Hunsaker's Resume
 ---
 # Reed Hunsaker
-Energetic and dedicated student of Software engineering. I have a deep understanding of programming fundamentals. Passionate about solving problems, completing puzzles, and being creative. Experience building native iOS applications and embedded systems on my own and in a team.
+Energetic and dedicated student of Software engineering. I have a deep understanding of programming fundamentals. Passionate about solving problems, completing puzzles, and being creative. Experience building native iOS applications, data solutions, and embedded systems on my own and in a team.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
