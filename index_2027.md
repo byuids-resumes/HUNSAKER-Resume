@@ -9,9 +9,7 @@ Energetic and dedicated student of Software engineering. I have a deep understan
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
-
 <!-- https://www.monique.tech/the-art-of-markdown -->
-
 
 ## Education
 
@@ -19,7 +17,6 @@ Energetic and dedicated student of Software engineering. I have a deep understan
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 Major GPA
-
 
 ## Related Experience
 
@@ -39,7 +36,6 @@ __Python Tutor__, BYU-I
 
 `2018-2020`
 __Missionary__, Philippines
-
 
 
 <!-- ### Footer
